@@ -1,0 +1,36 @@
+
+2021-08-09 11:10:21.992072	User=>localhost	Operation=>DeleteDetailsBasedOnUserData=>{"TaskData": "Server Stopped", "TaskDate": "12-Aug-2021", "TaskUser": "Akshay"}
+2021-08-09 11:10:53.986229	User=>localhost	Operation=>DeleteDetailsBasedOnUser	Data=>{"TaskData": "Server Stopped", "TaskDate": "12-Aug-2021", "TaskUser": "Akshay"}
+2021-08-09 11:11:15.452520	User=>localhost	Operation=>InsertUpdateDetails	Data=>{"TaskData": "Server Started", "TaskDate": "11-Aug-2021", "TaskUser": "Akky", "Operation": "Update"}
+2021-08-09 11:11:29.882090	User=>localhost	Operation=>GetDetails	Data=>""
+2021-08-09 11:11:43.588469	User=>localhost	Operation=>InsertUpdateDetails	Data=>{"TaskData": "Server Started", "TaskDate": "11-Aug-2021", "TaskUser": "Akky", "Operation": "Insert"}
+2021-08-09 11:11:43.592475	User=>localhost	Operation=>InsertOperation	Data=>"Server Started|11-Aug-2021|Akky"
+2021-08-09 11:11:54.263513	User=>localhost	Operation=>GetDetails	Data=>""
+2021-08-09 11:12:14.199285	User=>localhost	Operation=>GetDetails	Data=>""
+2021-08-09 11:15:43.535438	User=>localhost	Operation=>GetDetails	Data=>""
+2021-08-09 11:15:43.538439	User=>localhost	Operation=>GetDetails	Data=>""
+2021-08-09 11:16:19.795127	User=>localhost	Operation=>GetDetails	Data=>""
+2021-08-09 11:16:19.798123	User=>localhost	Operation=>GetDetails	Data=>""
+2021-08-09 11:16:56.882020	User=>localhost	Operation=>GetDetails	Data=>""
+2021-08-09 11:16:56.885013	User=>localhost	Operation=>GetDetails	Data=>""
+2021-08-09 11:17:57.645777	User=>localhost	Operation=>GetDetails	Data=>""
+2021-08-09 11:17:57.648779	User=>localhost	Operation=>GetDetails	Data=>""
+2021-08-09 11:17:57.652793	User=>localhost	Operation=>GetDetails	Data=>{"1": {"TaskName": "Server Started", "TaskDate": "11-Aug-2021", "TaskUser": "Akky", "TaskId": "1"}}
+2021-08-09 11:18:37.894895	User=>localhost	Operation=>InsertUpdateDetails	Data=>{"TaskData": "Server Started", "TaskDate": "11-Aug-2021", "TaskUser": "Akshay", "Operation": "Insert"}
+2021-08-09 11:18:37.898900	User=>localhost	Operation=>InsertOperation	Data=>"Server Started|11-Aug-2021|Akshay"
+2021-08-09 11:18:43.890314	User=>localhost	Operation=>DeleteDetailsBasedOnUser	Data=>{"TaskData": "Server Stopped", "TaskDate": "12-Aug-2021", "TaskUser": "Akshay"}
+2021-08-09 11:18:43.894391	User=>localhost	Operation=>DeleteOperation	Data=>"Akshay"
+2021-08-09 11:18:53.182976	User=>localhost	Operation=>GetDetails	Data=>""
+2021-08-09 11:18:53.185974	User=>localhost	Operation=>GetDetails	Data=>""
+2021-08-09 11:18:53.188979	User=>localhost	Operation=>GetDetails	Data=>{"1": {"TaskName": "Server Started", "TaskDate": "11-Aug-2021", "TaskUser": "Akky", "TaskId": "1"}}
+2021-08-09 11:19:05.408016	User=>localhost	Operation=>InsertUpdateDetails	Data=>{"TaskData": "Server Stopped", "TaskDate": "11-Aug-2021", "TaskUser": "Akshay", "Operation": "Update"}
+2021-08-09 11:19:05.412990	User=>localhost	Operation=>UpdateOperation	Data=>"Server Stopped|11-Aug-2021|Akshay"
+2021-08-09 11:19:11.553457	User=>localhost	Operation=>GetDetails	Data=>""
+2021-08-09 11:19:11.556458	User=>localhost	Operation=>GetDetails	Data=>""
+2021-08-09 11:19:11.559458	User=>localhost	Operation=>GetDetails	Data=>{"1": {"TaskName": "Server Stopped", "TaskDate": "11-Aug-2021", "TaskUser": "Akshay", "TaskId": "1"}}
+2021-08-09 11:19:14.192918	User=>localhost	Operation=>GetDetails	Data=>""
+2021-08-09 11:19:14.195917	User=>localhost	Operation=>GetDetails	Data=>""
+2021-08-09 11:19:14.198926	User=>localhost	Operation=>GetDetails	Data=>{"1": {"TaskName": "Server Stopped", "TaskDate": "11-Aug-2021", "TaskUser": "Akshay", "TaskId": "1"}}
+2021-08-09 11:19:16.387884	User=>localhost	Operation=>GetDetails	Data=>""
+2021-08-09 11:19:16.390884	User=>localhost	Operation=>GetDetails	Data=>""
+2021-08-09 11:19:16.393876	User=>localhost	Operation=>GetDetails	Data=>{"1": {"TaskName": "Server Stopped", "TaskDate": "11-Aug-2021", "TaskUser": "Akshay", "TaskId": "1"}}
